@@ -1,0 +1,17 @@
+{
+  "name": "shopeasy-lite",
+  "version": "1.0.0",
+  "description": "ShopEasy Lite - a tiny shopping cart web app",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "lint": "eslint .",
+    "test": "node --test"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "globals": "^17.13.0"
+  }
+}
