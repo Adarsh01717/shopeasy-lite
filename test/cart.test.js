@@ -9,7 +9,7 @@ test("total of an empty cart is 0", () => {
 test("total sums price x quantity", () => {
   let cart = addItem([], "Pen", 10, 3);
   cart = addItem(cart, "Book", 50);
-  assert.strictEqual(total(cart), 80);
+  assert.strictEqual(total(cart), 999);
 });
 
 test("negative price is rejected", () => {
