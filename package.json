@@ -1,6 +1,6 @@
 {
   "name": "shopeasy-lite",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ShopEasy Lite - a tiny shopping cart web app",
   "main": "src/server.js",
   "scripts": {
